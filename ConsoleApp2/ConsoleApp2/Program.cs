@@ -10,7 +10,7 @@ namespace ConsoleApp2
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Aloha2lllds");
+            Console.WriteLine("Aloha0000");
         }
     }
 }
